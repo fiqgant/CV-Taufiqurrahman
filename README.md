@@ -2,5 +2,5 @@
 My Curriculum Vitae
 
 
-https://fiqgant.github.io/#
+https://fiqgant.github.io/
 
