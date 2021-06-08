@@ -1204,6 +1204,13 @@ input:focus, textarea:focus, select:focus, button:focus {
     background-repeat: no-repeat;
     background-size: cover;
 }
+#circles-7{
+	background-image:url(https://simg.nicepng.com/png/small/96-967007_artificial-intelligence-world-forum-artificial-intelligence-logo-png.png);
+	border-radius: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .circles-decimals {
 	font-size: .4em;
 }
