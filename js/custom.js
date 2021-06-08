@@ -56,98 +56,98 @@ Assigned to: ThemeForest
 	});
 	
 	//Skills Charts
-	$('.prt_skills_wrapper').appear(function() {
-		var circle1 = Circles.create({
-			id: 'circles-1',
-			value: 90,
-			radius: 100,
-			number: 90,
-			text: '90%',
-			width: 8,
-			colors: ["#202020", "#00c8ff"],
-			duration: 900
-		});
-		var circle2 = Circles.create({
-			id: 'circles-2',
-			value: 80,
-			radius: 100,
-			number: 80,
-			text: '95%',
-			width: 8,
-			colors: ["#202020", "#ff8511"],
-			duration: 900
-		});
-		var circle3 = Circles.create({
-			id: 'circles-3',
-			value: 75,
-			radius: 100,
-			number: 75,
-			text: '90%',
-			width: 8,
-			colors: ["#202020", "#f26525"],
-			duration: 900
-		});
-		var circle4 = Circles.create({
-			id: 'circles-4',
-			value: 94,
-			radius: 100,
-			number: 94,
-			text: '94%',
-			width: 8,
-			colors: ["#202020", "#1d8bbe"],
-			duration: 900
-		});
-		var circle4 = Circles.create({
-			id: 'circles-5',
-			value: 70,
-			radius: 100,
-			number: 70,
-			text: '75%',
-			width: 8,
-			colors: ["#202020", "#1d8bbe"],
-			duration: 900
-		});
-		var circle4 = Circles.create({
-			id: 'circles-6',
-			value: 70,
-			radius: 100,
-			number: 70,
-			text: '70%',
-			width: 8,
-			colors: ["#202020", "#1d8bbe"],
-			duration: 900
-		});
-		var circle4 = Circles.create({
-			id: 'circles-7',
-			value: 85,
-			radius: 100,
-			number: 85,
-			text: '85%',
-			width: 8,
-			colors: ["#202020", "#1d8bbe"],
-			duration: 900
-		});
-	});
+// 	$('.prt_skills_wrapper').appear(function() {
+// 		var circle1 = Circles.create({
+// 			id: 'circles-1',
+// 			value: 90,
+// 			radius: 100,
+// 			number: 90,
+// 			text: '90%',
+// 			width: 8,
+// 			colors: ["#202020", "#00c8ff"],
+// 			duration: 900
+// 		});
+// 		var circle2 = Circles.create({
+// 			id: 'circles-2',
+// 			value: 80,
+// 			radius: 100,
+// 			number: 80,
+// 			text: '95%',
+// 			width: 8,
+// 			colors: ["#202020", "#ff8511"],
+// 			duration: 900
+// 		});
+// 		var circle3 = Circles.create({
+// 			id: 'circles-3',
+// 			value: 75,
+// 			radius: 100,
+// 			number: 75,
+// 			text: '90%',
+// 			width: 8,
+// 			colors: ["#202020", "#f26525"],
+// 			duration: 900
+// 		});
+// 		var circle4 = Circles.create({
+// 			id: 'circles-4',
+// 			value: 94,
+// 			radius: 100,
+// 			number: 94,
+// 			text: '94%',
+// 			width: 8,
+// 			colors: ["#202020", "#1d8bbe"],
+// 			duration: 900
+// 		});
+// 		var circle4 = Circles.create({
+// 			id: 'circles-5',
+// 			value: 70,
+// 			radius: 100,
+// 			number: 70,
+// 			text: '75%',
+// 			width: 8,
+// 			colors: ["#202020", "#1d8bbe"],
+// 			duration: 900
+// 		});
+// 		var circle4 = Circles.create({
+// 			id: 'circles-6',
+// 			value: 70,
+// 			radius: 100,
+// 			number: 70,
+// 			text: '70%',
+// 			width: 8,
+// 			colors: ["#202020", "#1d8bbe"],
+// 			duration: 900
+// 		});
+// 		var circle4 = Circles.create({
+// 			id: 'circles-7',
+// 			value: 85,
+// 			radius: 100,
+// 			number: 85,
+// 			text: '85%',
+// 			width: 8,
+// 			colors: ["#202020", "#1d8bbe"],
+// 			duration: 900
+// 		});
+// 	});
 	
-	// Service Page Client Slider Js
-	$('.prt_client_slider .owl-carousel').owlCarousel({
-		loop:true,
-		margin:10,
-		autoplay:true,
-		nav:false,
-		dots:false,
-		responsive:{
-			0:{
-				items:1
-			},
-			600:{
-				items:3
-			},
-			1000:{
-				items:5
-			}
-		}
-	});
+// 	// Service Page Client Slider Js
+// 	$('.prt_client_slider .owl-carousel').owlCarousel({
+// 		loop:true,
+// 		margin:10,
+// 		autoplay:true,
+// 		nav:false,
+// 		dots:false,
+// 		responsive:{
+// 			0:{
+// 				items:1
+// 			},
+// 			600:{
+// 				items:3
+// 			},
+// 			1000:{
+// 				items:5
+// 			}
+// 		}
+// 	});
 	
 	// Portfolio popup Js
 	$('.popup-gallery').magnificPopup({
