@@ -89,10 +89,10 @@ Assigned to: ThemeForest
 		});
 		var circle4 = Circles.create({
 			id: 'circles-4',
-			value: 70,
+			value: 94,
 			radius: 100,
-			number: 70,
-			text: '85%',
+			number: 94,
+			text: '94%',
 			width: 8,
 			colors: ["#202020", "#1d8bbe"],
 			duration: 900
@@ -113,6 +113,16 @@ Assigned to: ThemeForest
 			radius: 100,
 			number: 70,
 			text: '70%',
+			width: 8,
+			colors: ["#202020", "#1d8bbe"],
+			duration: 900
+		});
+		var circle4 = Circles.create({
+			id: 'circles-7',
+			value: 85,
+			radius: 100,
+			number: 85,
+			text: '85%',
 			width: 8,
 			colors: ["#202020", "#1d8bbe"],
 			duration: 900
